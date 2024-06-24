@@ -1,0 +1,1 @@
+currently im new to batch so it may not be the best but i desided to make a cmd that has extra commands, python dependencies will be installed with the command "dep" or "dependencies" and it will install the needed dependencies
